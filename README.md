@@ -25,7 +25,7 @@
 
 Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！来自大家的关注、维护和贡献，才是让这个攻略继续存在的动力~
 
-如果希望匿名贡献，可以 email 至此邮箱，注明 "REKCARC-TSC-UHT" 即可：PKUanonymous@qq.com
+如果希望匿名贡献，可以 email 至此邮箱，注明 "REKCARC-TSC-UHT" 即可：1312218161@qq.com
 ### 操作方法
 
 提交 PR：Fork 本项目，然后在 GitHub 网页端点击 Upload File 上传文件，发起 PR 即可。留意一下项目的文件组织喔。
